@@ -1,0 +1,6 @@
+{
+  "name": "STC Tech Hand - Windows OEM Branding & Technician Identity Studio",
+  "description": "Professional Windows System Properties OEM branding and identity automation suite for ARIFUZZAMAN (Kiron) - STC Tech Hand, Feni, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
